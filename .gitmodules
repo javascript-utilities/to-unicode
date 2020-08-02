@@ -1,0 +1,4 @@
+[submodule "to-unicode"]
+	path = assets/js/modules/to-unicode
+	url = https://github.com/javascript-utilities/to-unicode.git
+	branch = main
