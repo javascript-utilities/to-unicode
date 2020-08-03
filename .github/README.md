@@ -7,7 +7,7 @@
 Converts character or string to Hex Unicode
 
 
-## [![Byte size of Character To Unicode][badge__main__character_to_unicode__source_code]][character_to_unicode__main__source_code] [![Open Issues][badge__issues__character_to_unicode]][issues__character_to_unicode] [![Open Pull Requests][badge__pull_requests__character_to_unicode]][pull_requests__character_to_unicode] [![Latest commits][badge__commits__character_to_unicode__main]][commits__character_to_unicode__main] [![to-unicode Demos][badge__gh_pages__character_to_unicode]][gh_pages__character_to_unicode]
+## [![Byte size of Character To Unicode][badge__main__character_to_unicode__source_code]][character_to_unicode__main__source_code] [![Open Issues][badge__issues__character_to_unicode]][issues__character_to_unicode] [![Open Pull Requests][badge__pull_requests__character_to_unicode]][pull_requests__character_to_unicode] [![Latest commits][badge__commits__character_to_unicode__main]][commits__character_to_unicode__main] [![to-unicode Demos][badge__gh_pages__character_to_unicode]][gh_pages__character_to_unicode][![Build Status][badge_travis_ci]][build_travis_ci]
 
 
 
@@ -384,6 +384,9 @@ For further details review full length version of [AGPL-3.0][branch__current__li
 [badge__main__character_to_unicode__source_code]:
   https://img.shields.io/github/repo-size/javascript-utilities/to-unicode
 
+[badge_travis_ci]:
+  https://travis-ci.com/javascript-utilities/to-unicode.svg?branch=main
 
-
+[build_travis_ci]:
+  https://travis-ci.com/javascript-utilities/to-unicode
 
