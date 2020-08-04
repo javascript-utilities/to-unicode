@@ -4,7 +4,7 @@
  * @author S0AndS0
  * @copyright AGPL-3.0
  */
-class fromCharacter_Test {
+class toUnicode_Test {
     constructor(min_code_point = 161, max_code_point = 1114111) {
         this.toUnicode = require('../to-unicode.js');
         this.min_code_point = min_code_point;
@@ -46,5 +46,5 @@ class fromCharacter_Test {
         });
     }
 }
-const test_fromCharacter = new fromCharacter_Test();
-test_fromCharacter.runTests();
+const test_toUnicode = new toUnicode_Test();
+test_toUnicode.runTests();

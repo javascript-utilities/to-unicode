@@ -6,7 +6,7 @@
  * @author S0AndS0
  * @copyright AGPL-3.0
  */
-class fromCharacter_Test {
+class toUnicode_Test {
   toUnicode: any;
   min_code_point: number;
   max_code_point: number;
@@ -62,5 +62,6 @@ class fromCharacter_Test {
 }
 
 
-const test_fromCharacter: fromCharacter_Test = new fromCharacter_Test();
-test_fromCharacter.runTests();
+const test_toUnicode: toUnicode_Test = new toUnicode_Test();
+test_toUnicode.runTests();
+
