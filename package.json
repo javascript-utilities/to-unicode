@@ -1,5 +1,5 @@
 {
-  "name": "character-to-unicode",
+  "name": "to-unicode",
   "version": "0.0.1",
   "description": "Converts character to Hex Unicode",
   "main": "to-unicode.js",
